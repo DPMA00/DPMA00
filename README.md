@@ -14,7 +14,7 @@ Here are some of the projects I’ve worked on:
 2. Dynamic Obstacle avoidance using NMPC
 
 
-📖: Studies
+📖 Studies:
 
 What I'm currently learning:
 
