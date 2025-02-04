@@ -1,16 +1,13 @@
-## Hi there 👋
+## Hi there, I'm Dieter! 👋
 
-<!--
-**DPMA00/DPMA00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a recent graduate Electromechanical Engineer with a passion for control systems, intelligent robotics, and autonomous vehicles. I specialize in Model Predictive Control (MPC), nonlinear optimization, and robotics, and I love tackling challenging problems that combine theory and practice.
 
-Here are some ideas to get you started:
+🚀 Projects:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Here are some of the projects I’ve worked on:
+
+1. Autonomous Parallel Parking using Nonlinear Model Predictive Control (NMPC)
+
+2. Dynamic Obstacle avoidance using NMPC and linear Kalman Filter
+
+
