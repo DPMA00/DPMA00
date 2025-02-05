@@ -13,8 +13,7 @@ Here are some of the projects I’ve worked on:
 1. Autonomous Parallel Parking using Nonlinear Model Predictive Control (NMPC)
 2. Dynamic Obstacle avoidance using NMPC
 
-
-   ![DynamicObstacleAvoidance](https://github.com/user-attachments/assets/7e78c5e4-acfd-444e-813a-675db240c73d)
+   <img src="https://github.com/user-attachments/assets/7e78c5e4-acfd-444e-813a-675db240c73d" width="400" height="350"/>
 
 
 
