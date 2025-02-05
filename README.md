@@ -14,6 +14,10 @@ Here are some of the projects I’ve worked on:
 2. Dynamic Obstacle avoidance using NMPC
 
 
+   ![DynamicObstacleAvoidance](https://github.com/user-attachments/assets/7e78c5e4-acfd-444e-813a-675db240c73d)
+
+
+
 📖 Studies:
 
 What I'm currently learning:
