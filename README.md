@@ -10,11 +10,12 @@ What I'm currently working on:
 
 Here are some of the projects I’ve worked on:
 
-1. Autonomous Parallel Parking using Nonlinear Model Predictive Control (NMPC)
-2. Dynamic Obstacle avoidance using NMPC
+1. (April 2024) Autonomous Parallel Parking using Nonlinear Model Predictive Control (NMPC)
 
-   <img src="https://github.com/user-attachments/assets/7e78c5e4-acfd-444e-813a-675db240c73d" width="400" height="350"/>
+   <img src="https://github.com/user-attachments/assets/52753d20-0046-4610-a48b-6022eaf19db6" width="400" height="350"/>
+2. (January 2025) Dynamic Obstacle avoidance using NMPC
 
+   <img src="https://github.com/user-attachments/assets/f299a4bd-6de2-4b89-bab0-e1b2fe8eddce" width="400" height="350"/>
 
 
 📖 Studies:
